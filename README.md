@@ -7,10 +7,13 @@ Quiz app in Android + Kotlin
 - UI built using XML
 
 ## Main
-![img_2.png](images/img_2.png)
+
+![img_2.png](images/main.png)
 
 ## Quiz UI
-![img_1.png](images/img_1.png)
+
+![img_1.png](images/quiz.png)
 
 ## Result
-![img.png](images/img.png)
+
+![img.png](images/result.png)
